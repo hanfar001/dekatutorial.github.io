@@ -15,7 +15,7 @@ function link(){
   var aTT = document.createElement("a");
   aTT.setAttribute("href", "https://www.tiktok.com/@deka_tutorial");
   aTT.setAttribute("style", "text-decoration: none; color: white; opacity: 0.25; display: block; font-size: 0.9em;");
-  aTT.innerHTML = "Tiktok : @deka_tutorial";
+  aTT.innerHTML = "Tiktok : test";
 
   divLink.appendChild(aYT);
   divLink.appendChild(aTT);

@@ -10,7 +10,7 @@ function link(){
   var aYT = document.createElement("a");
   aYT.setAttribute("href", "https://www.youtube.com/dekatutorial");
   aYT.setAttribute("style", "text-decoration: none; color: white; opacity: 0.25; display: block; font-size: 0.9em;");
-  aYT.innerHTML = "Youtube : Deka Tutorial";
+  aYT.innerHTML = "Youtube : tezt";
 
   var aTT = document.createElement("a");
   aTT.setAttribute("href", "https://www.tiktok.com/@deka_tutorial");
